@@ -1,6 +1,7 @@
+
 {
   "version": "1.0.0",
-  "notes": "Initial release\n• Compass-turn calculator\n• Regional training presets\n• Custom compass corrections\n• Moving compass simulation\n• Light and dark appearance\n• Performance improvements",
-  "androidUrl": "",
+  "notes": "Initial public release of Compass Turns - Aviation. Includes magnetic compass turn calculations, interactive visualization, regional training settings, and light and dark themes.",
+  "androidUrl": "https://github.com/arfeen-dev/compass-turns-releases/releases/tag/v1.0.0",
   "iosUrl": ""
 }
