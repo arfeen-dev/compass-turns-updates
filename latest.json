@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": "Improved target heading slider smoothness, corrected degree marker alignment, refreshed region selection and restored the clean app header.",
-  "androidUrl": "https://github.com/arfeen-dev/compass-turns-releases/releases/tag/v1.0.1",
+  "androidUrl": "https://github.com/arfeen-dev/compass-turns-releases/releases/tag/v1.0.2",
   "iosUrl": ""
 }
