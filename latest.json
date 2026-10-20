@@ -1,6 +1,7 @@
+
 {
-  "version": "1.0.2",
-  "notes": "Automatic update notifications on launch, 24-hour reminder postponement, improved update dialogs and stability fixes.",
-  "androidUrl": "https://github.com/arfeen-dev/compass-turns-releases/releases/tag/v1.0.2",
+  "version": "1.0.3",
+  "notes": "New app icon, support for Google Play and GitHub updates, automatic update notifications, 24-hour Later reminder, and stability improvements.",
+  "androidUrl": "https://github.com/arfeen-dev/compass-turns-releases/releases/tag/v1.0.3",
   "iosUrl": ""
 }
