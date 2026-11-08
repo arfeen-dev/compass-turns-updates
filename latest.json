@@ -1,7 +1,6 @@
-
 {
-  "version": "1.0.3",
-  "notes": "New app icon, support for Google Play and GitHub updates, automatic update notifications, 24-hour Later reminder, and stability improvements.",
-  "androidUrl": "https://github.com/arfeen-dev/compass-turns-releases/releases/tag/v1.0.3",
+  "version": "1.0.4",
+  "notes": "Refined regional compass correction settings, improved custom deviation configuration, calculation summaries and interactive compass visualisation. Updated legal documentation and application reliability improvements.",
+  "androidUrl": "https://github.com/arfeen-dev/compass-turns-aviation/releases/tag/v1.0.4",
   "iosUrl": ""
 }
